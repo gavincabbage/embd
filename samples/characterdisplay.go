@@ -6,11 +6,11 @@ import (
 	"flag"
 	"time"
 
-	"github.com/kidoman/embd"
-	"github.com/kidoman/embd/controller/hd44780"
-	"github.com/kidoman/embd/interface/display/characterdisplay"
+	"github.com/gavincabbage/embd"
+	"github.com/gavincabbage/embd/controller/hd44780"
+	"github.com/gavincabbage/embd/interface/display/characterdisplay"
 
-	_ "github.com/kidoman/embd/host/all"
+	_ "github.com/gavincabbage/embd/host/all"
 )
 
 func main() {
