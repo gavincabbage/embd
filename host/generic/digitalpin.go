@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/kidoman/embd"
+	"github.com/gavincabbage/embd"
 )
 
 type digitalPin struct {
